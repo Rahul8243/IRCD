@@ -13,8 +13,8 @@
 # Repeat digit addition until only one digit remains
 
 
-N = input().strip()
-K = int(input())
+N = input('enter number:').strip()
+K = int(input('enter natural number: '))
 
 # Step 1: sum of digits of N
 digit_sum = sum(int(d) for d in N)
