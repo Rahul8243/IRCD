@@ -155,8 +155,8 @@ This repository demonstrates a complete journey through core programming and alg
 
 ## 👨‍💻 Author
 
-*Rahul kumar*
-*Master of computer application*
+*Name:[*Rahul kumar*]
+[*Master of computer application*]
 * Subject: Industry readiness and career development
 
 ---
